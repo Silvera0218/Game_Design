@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Development"
+  short_description: "Game design, art, prototypes, Unity."
+  default_prompt: "Use $game-development to turn this game idea into a playable Unity prototype plan and implementation checklist."

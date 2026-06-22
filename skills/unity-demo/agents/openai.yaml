@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unity Demo"
+  short_description: "Build isolated Unity gameplay demos"
+  default_prompt: "Use $unity-demo to create an isolated Unity demo that validates this mechanic in Play Mode."
